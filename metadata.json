@@ -1,0 +1,6 @@
+{
+  "name": "Threadwell — Family Caregiver Coordination",
+  "description": "A calm, dignified coordination platform for family caregivers and care recipients, featuring shared calendars, medication tracking, task claims, document vault, and senior-first accessibility.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
